@@ -6,7 +6,7 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   integrations: [tailwind()],
   site: 'https://jimicat.github.io',
-  base: '/',
+  base: '/nobloger',
   prefetch: {
     prefetchAll: true
   }
