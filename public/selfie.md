@@ -1,21 +1,14 @@
 ---
 
-author: humbornjo
-favicon: https://humbornjo.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F816ab0e2-0bbf-4fbc-a791-de833db1ae15%2F6a4386f6-eb35-42b1-83a9-b59459afd1e9%2Ffavicon.png?id=958ffeba-5ab8-4ea7-9d06-8d91fd44b149&table=collection&spaceId=816ab0e2-0bbf-4fbc-a791-de833db1ae15&width=60&userId=&cache=v2
+author: jimicat
+favicon: https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1e27a54d-0041-41df-8c8a-984bedf71be8%2F81a39430-aad9-4229-ad97-8292bee50443%2Fistockphoto-1081797014-612x612-removebg-preview.png?id=14249946-15ff-8110-80d0-000b7564e62f&table=collection&spaceId=1e27a54d-0041-41df-8c8a-984bedf71be8&width=60&userId=13ed872b-594c-8128-af0b-0002a2fa36b9&cache=v2
 
 ---
 
 ![avatar.png](./images/image.png)
 
-Hi there,
+偶尔想到的一些内容会做记录，内容不限于技术文章，更多的是一些个人的只言片语。博主平时喜欢运动（主要是跑步），以糊代码为乐趣，偶尔也靠读些西方哲学书籍来打发无聊时光。
 
-On the internet I’m mostly known as humbornjo. My pronouns are he/him.
-
-I think I will be a full-stack web developer who like to recreate and fuck around. Somewhat just like [tsoding](https://www.youtube.com/@TsodingDaily).
-
-Btw, I perfer salmon over tuna.
-
-You can also find me on,
-- Github:   [@humbornjo](https://github.com/humbornjo)
-- Linkedin: [@Shua Shin](https://www.linkedin.com/in/shua-shin-8a1134271?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbRLNfwdaTIm7%2FZC3NzJH8w%3D%3D)
+You can find me on,
+- Github:   [@jimicat](https://github.com/jimicat)
 
